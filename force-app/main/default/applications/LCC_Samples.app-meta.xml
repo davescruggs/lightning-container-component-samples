@@ -9,6 +9,7 @@
     <navType>Standard</navType>
     <tabs>Basic_Messaging</tabs>
     <tabs>Apex_Call</tabs>
+    <tabs>React_Trivia</tabs>
     <tabs>React_Apex</tabs>
     <tabs>ECMAScript_5</tabs>
     <tabs>D3</tabs>

@@ -1,0 +1,3 @@
+<aura:component implements="flexipage:availableForAllPageTypes" access="global" >
+    <lightning:container aura:id="jsApp" src="{!$Resource.lcc_react_trivia + '/index.html'}" ></lightning:container>
+</aura:component>	
