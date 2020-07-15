@@ -1,7 +1,7 @@
 {
-    "orgName": "ccoenraets Company",
+    "orgName": "Dave Scruggs",
     "edition": "Developer",
-    "hasSampleData": "true",
+    "hasSampleData": true,
     "settings": {
         "lightningExperienceSettings": {
             "enableS1DesktopEnabled": true
